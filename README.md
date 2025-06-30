@@ -28,9 +28,6 @@ A Frontend Developer with 5 years of experience in the JavaScript/React world. I
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aujemd&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aujemd&limit=5&theme=neon&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Aujemd&icon=6&color=6)](https://visitcount.itsvg.in)
 
