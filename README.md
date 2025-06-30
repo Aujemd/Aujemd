@@ -1,4 +1,4 @@
-### Hi, I'm [Your Name]! 👋
+### Hi, I'm Johan! 👋
 
 A Frontend Developer with 5 years of experience in the JavaScript/React world. I love building things for the web that are fast, accessible, and fun to use.
 
